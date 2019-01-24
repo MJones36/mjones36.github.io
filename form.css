@@ -34,7 +34,10 @@ body {
 
 /* form */
 	
-h2{margin:30px;}
+h2 { 
+	margin:30px;
+	font-size: 60px;
+}
 .contact-form{width:600px;margin:0 auto;}
 .contact-form .form-control{
 	border:none;
