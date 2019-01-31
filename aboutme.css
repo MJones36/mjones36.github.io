@@ -10,6 +10,8 @@ body {
 	background: #EEE2DC;
 }
 
+}
+
 .wrapper {
 	margin-right: auto;
 	margin-left: auto;
@@ -21,15 +23,21 @@ body {
 /* navbar */
 
 .navbar {
-  padding: 10px 50px;
+  	padding: 10px 50px;
 }
 
 .navbar-nav li {
-  padding-right: 20px;
+  	padding-right: 20px;
+}
+
+.navbar-brand {
+  	font-family: Montserrat;
+
 }
 
 .nav-link {
-  font-size: 1.1em !important;
+  	font-size: 1.1em !important;
+  	font-family: Montserrat;
 }
 
 /* content section */
@@ -42,6 +50,7 @@ main h1 {
 	color: #AC3B61;
 	padding-left: 20%;
 	padding-right: 20%;
+	font-family: Montserrat;
 }
 
 main p {
@@ -50,26 +59,31 @@ main p {
 	padding-left: 25%;
 	padding-right: 25%;
 	font-size: 19px;
+	font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
 /* footer */
 
 footer {
-  margin-top: 100px;
+  	margin-top: 100px;
 }
 
 footer ul{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-list-style: none;
-padding: 5px 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+	padding: 5px 0;
 }
 
 footer li i{
-color:#555;
-margin: 15px;
+	color:#555;
+	margin: 15px;
+}
+
+.footer-info {
+	font-family: Montserrat;
 }
 
 /* hover effect */
