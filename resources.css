@@ -29,9 +29,17 @@ body {
   padding-right: 20px;
 }
 
-.nav-link {
-  font-size: 1.1em !important;
+.navbar-brand {
+  	font-family: Montserrat;
 }
+
+.nav-link {
+  	font-size: 1.1em !important;
+  	font-family: Montserrat;
+}
+
+
+
 /* page contents */
 
 h2{
@@ -41,21 +49,29 @@ h2{
 .resource-title {
 	color: #AC3B61;
 	font-size: 60px;
+	font-family: Montserrat;
 }
 
 .description{
 	color: #A35C5C;
 	font-size: 30px;
+	font-family: Esteban;
 }
 
 .titles {
 	font-size: 30px;
 	color: #123C69;
+	font-family: Esteban;
 }
 
 .resources-links {
 	font-size: 20px;
 	color: #737373;
+	font-family: Esteban;
+}
+
+.footer-info {
+	font-family: Montserrat;
 }
 
 /* footer */
@@ -77,6 +93,8 @@ footer li i{
 color:#555;
 margin: 15px;
 }
+
+
 
 /* hover effect */
 
