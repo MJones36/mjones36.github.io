@@ -55,19 +55,19 @@ h2{
 .description{
 	color: #A35C5C;
 	font-size: 30px;
-	font-family: Esteban;
+	font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
 .titles {
 	font-size: 30px;
 	color: #123C69;
-	font-family: Esteban;
+	font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
 .resources-links {
 	font-size: 20px;
 	color: #737373;
-	font-family: Esteban;
+	font-family: Esteban, Georgia, 'Times New Roman', serif;
 }
 
 .footer-info {
