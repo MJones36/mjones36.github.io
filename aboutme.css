@@ -48,8 +48,8 @@ main {
 
 main h1 {
 	color: #AC3B61;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 13%;
+	padding-right: 13%;
 	font-family: Montserrat;
 }
 
@@ -60,6 +60,7 @@ main p {
 	padding-right: 25%;
 	font-size: 19px;
 	font-family: Esteban, Georgia, 'Times New Roman', serif;
+	color: #A35C5C;
 }
 
 /* footer */
