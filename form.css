@@ -1,7 +1,7 @@
 * {
-  margin: 0;
-  padding: 0;
-  font-family: Montserrat;
+  	margin: 0;
+ 	padding: 0;
+  	font-family: Montserrat;
 }
 
 body {
@@ -22,15 +22,15 @@ body {
 /* navbar */
 
 .navbar {
-  padding: 10px 50px;
+  	padding: 10px 50px;
 }
 
 .navbar-nav li {
-  padding-right: 20px;
+  	padding-right: 20px;
 }
 
 .nav-link {
-  font-size: 1.1em !important;
+  	font-size: 1.1em !important;
 }
 
 /* form */
@@ -75,25 +75,27 @@ h2 {
 /* footer */
 
 footer {
-  margin-top: 100px;
+  	margin-top: 100px;
 }
 
 footer ul{
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-list-style: none;
-padding: 5px 0;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+	padding: 5px 0;
 }
 
 footer li i{
-color:#555;
-margin: 15px;
+	color:#555;
+	margin: 15px;
 }
 
 .footer-info {
-align-items: center;
+	align-items: center;
+	font-family: Montserrat;
+	color:#532A2C;
 }
 
 /* hover effect */
@@ -110,7 +112,8 @@ align-items: center;
 
 @media (max-width: 768px) {
 
-	h2 {margin:30px;
+	h2 {
+		margin:30px;
 		font-size: 50px;
 	}
 	.contact-form{width:400px;
