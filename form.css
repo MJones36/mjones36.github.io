@@ -109,7 +109,9 @@ align-items: center;
 /* media queries */
 
 @media (max-width: 768px) {
+
 	h2 {margin:30px;
+		font-size: 50px;
 	}
 	.contact-form{width:400px;
 	} 
@@ -117,6 +119,7 @@ align-items: center;
 
 @media (max-width: 576px) {
 	h2 {margin:30px;
+		font-size: 40px;
 	}
 	.contact-form{width:300px;
 	}

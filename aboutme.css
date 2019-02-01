@@ -65,6 +65,11 @@ main p {
 	color: #A35C5C;
 }
 
+#linktoform:hover {
+	color:#532A2C;
+
+}
+
 /* footer */
 
 footer {
@@ -98,7 +103,7 @@ footer li i{
 }
 
 .fab {
-	color: black;
+	color: #532A2C;
 }
 
 /* media queries */
